@@ -2,4 +2,4 @@
 
 example project using `sos`'s api
 
-[sos](https://github.com/breadleaf/sos)
+[sos git repo](https://github.com/breadleaf/sos)
